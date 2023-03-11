@@ -1,1 +1,1 @@
-//Check personal folder for info
+//Check personal folder for info about challenge
